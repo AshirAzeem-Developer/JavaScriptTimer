@@ -1,0 +1,15 @@
+body{
+    background-color: #001d3d !important ;
+}
+.part2{
+    background-color: rgba(0, 119, 182,0.4) ;
+    opacity: 0.3;
+ 
+
+}
+.inp{
+    background-color: rgba(0, 119, 182,0.4) ;
+    color: white;
+    padding:8px ;
+}
+
